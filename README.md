@@ -1,4 +1,5 @@
 # CS3560 - Example Project
+## Repo user for pull request practice
 
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
 
